@@ -1,14 +1,13 @@
 
 ## Create a python ENV and activate it (optional)
 
-## Download the gym_manipulation folder
+## After cloning this repo, run the below command
 ```
-    $> cd gym_manipulation
     $> pip install -e .
 ```
 
-## GO TO TEST_FOLDER and RUN
+## For MyCobot Robot manipulaiton testing, GO TO TEST_FOLDER and RUN below commands
 ```
     $> cd test_folder
-    $> python test_one.py
+    $> python cobot-test.py
 ```
